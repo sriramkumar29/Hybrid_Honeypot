@@ -1,0 +1,132 @@
+[
+    {
+        "timestamp": "2025-04-12 12:10:04.647037",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "username": "admin or 1=1",
+        "password": "asdf",
+        "accessed_section": "User Management",
+        "data_type": "fake",
+        "duration": 7.825595
+    },
+    {
+        "timestamp": "2025-04-12 12:10:12.472632",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "username": "admin or 1=1",
+        "password": "asdf",
+        "accessed_section": "Financial Reports",
+        "data_type": "fake",
+        "duration": 5.980743
+    },
+    {
+        "timestamp": "2025-04-12 12:10:18.453375",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "username": "admin or 1=1",
+        "password": "asdf",
+        "accessed_section": "Financial Reports",
+        "data_type": "fake",
+        "duration": 1.530415
+    },
+    {
+        "timestamp": "2025-04-12 12:10:19.983790",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "username": "admin or 1=1",
+        "password": "asdf",
+        "accessed_section": "Database Access",
+        "data_type": "fake",
+        "duration": 2.638987
+    },
+    {
+        "timestamp": "2025-04-12 12:10:22.622777",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "username": "admin or 1=1",
+        "password": "asdf",
+        "accessed_section": "API Keys",
+        "data_type": "fake",
+        "duration": 1.237652
+    },
+    {
+        "timestamp": "2025-04-13 04:02:30.859722",
+        "attacker_ip": "Unknown",
+        "user_agent": "Unknown",
+        "username": "Unknown",
+        "password": "Unknown",
+        "accessed_section": "Analytics",
+        "data_type": "fake",
+        "duration": 0.0
+    },
+    {
+        "timestamp": "2025-04-13 04:26:09.012619",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "Analytics",
+        "data_type": "fake",
+        "duration": 2.814184
+    },
+    {
+        "timestamp": "2025-04-13 04:26:11.826803",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "System Logs",
+        "data_type": "fake",
+        "duration": 6.143429
+    },
+    {
+        "timestamp": "2025-04-13 04:26:17.970232",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "API Keys",
+        "data_type": "fake",
+        "duration": 1.914633
+    },
+    {
+        "timestamp": "2025-04-13 04:26:19.884865",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "Admin Credentials",
+        "data_type": "fake",
+        "duration": 2.041143
+    },
+    {
+        "timestamp": "2025-04-13 04:26:21.926008",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "User Management",
+        "data_type": "fake",
+        "duration": 1.904032
+    },
+    {
+        "timestamp": "2025-04-13 04:26:23.830040",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "System Logs",
+        "data_type": "fake",
+        "duration": 22.662232
+    },
+    {
+        "timestamp": "2025-04-13 04:26:46.492272",
+        "attacker_ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "username": "<img src=x onerror=alert(1)>",
+        "password": "0987",
+        "accessed_section": "Security Logs",
+        "data_type": "fake",
+        "duration": 2.679315
+    }
+]

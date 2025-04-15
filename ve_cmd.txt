@@ -1,0 +1,5 @@
+# Create a new virtual environment
+python -m venv tf_env
+
+# Activate the virtual environment (Windows)
+.\tf_env\Scripts\activate
